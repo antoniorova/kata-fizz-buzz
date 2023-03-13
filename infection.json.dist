@@ -3,9 +3,6 @@
         "directories": [
             "src"
         ],
-        "excludes": [
-            "Infrastructure/Symfony/Kernel.php",
-        ]
     },
     "mutators": {
         "@default": true
